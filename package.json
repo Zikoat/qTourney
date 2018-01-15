@@ -1,0 +1,33 @@
+{
+  "name": "qtourney",
+  "version": "0.1.0",
+  "description": "create a quick and easy tournament without any planning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zikoat/qTourney.git"
+  },
+  "keywords": [
+    "tournament",
+    "tourney"
+  ],
+  "author": "Zikoat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zikoat/qTourney/issues"
+  },
+  "homepage": "https://github.com/Zikoat/qTourney#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "koa": "^2.4.1",
+    "socket.io": "^2.0.4",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
